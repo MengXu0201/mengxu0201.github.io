@@ -103,6 +103,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
+  padding-top: 15px;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -125,7 +126,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .sidebar .author__desktop {
