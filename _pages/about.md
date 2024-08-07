@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 # About Me
-I am an Assistant Professor in the Department of Computer Science and Technology at Kean University in Union, New Jersey. 
-I received my Ph.D. in Computer Science from Utah State University in Logan, Utah, in 2023. Prior to that, I received my 
-Bachelor's degree in Management Information Systems at Tianjin University of Technology in Tianjin, China, in 2017.
+I am a tenure-track assistant professor in the Department of Computer Science and Technology at Kean University (Union, NJ). 
+I received my Ph.D. in Computer Science from Utah State University (Logan, UT) in 2023. Prior to that, I received my 
+Bachelor's degree in Management Information Systems at Tianjin University of Technology (Tianjin, China) in 2017.
 
 My research interests include computer vision, deep learning, and medical image analysis. Currently, my research is 
 particularly focused on the detection of breast cancer in ultrasound and mammography images.
@@ -18,7 +18,7 @@ particularly focused on the detection of breast cancer in ultrasound and mammogr
 <br>
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Received NSF Computer and Information Science and Engineering Research Expansion Program Grant, Co-PI, $203,981
-- *2024.06*: &nbsp;🎉🎉 Received CAHSI-Google Institutional Research Program Awards, PI, $80,000 and $20,000 Google Cloud Platform credits
+- *2024.07*: &nbsp;🎉🎉 Received NSF Computer and Information Science and Engineering Research Expansion Program Grant, Co-PI, $203,981.
+- *2024.06*: &nbsp;🎉🎉 Received CAHSI-Google Institutional Research Program Awards, PI, $80,000 and $20,000 Google Cloud Platform credits.
 
 
