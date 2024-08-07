@@ -10,7 +10,7 @@ redirect_from:
 # About Me
 I am a tenure-track assistant professor in the Department of Computer Science and Technology at Kean University (Union, NJ). 
 I received my Ph.D. in Computer Science from Utah State University (Logan, UT) in 2023. Prior to that, I received my 
-Bachelor's degree in Management Information Systems at Tianjin University of Technology (Tianjin, China) in 2017.
+Bachelor's degree from Management Information Systems at Tianjin University of Technology (Tianjin, China) in 2017.
 
 My research interests include computer vision, deep learning, and medical image analysis. Currently, my research is 
 particularly focused on the detection of breast cancer in ultrasound and mammography images.
