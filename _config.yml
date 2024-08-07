@@ -24,9 +24,9 @@ author:
   avatar           : "meng.JPG"
   name             : "Meng Xu"
   pronouns         : # "she/her"
-  bio              : "Assistant Professor </br></br> Department of Computer Science and Technology </br></br> Kean University"
+  bio              : "Assistant Professor | Department of Computer Science and Technology | Kean University"
   location         : "NJ, USA"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "mexu@kean.edu"
 
