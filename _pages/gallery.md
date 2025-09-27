@@ -22,8 +22,8 @@ author_profile: true
 * Presenting our work at ISBI 2025, Houston.
 <table cellspacing="20">
   <tr>
-    <td><img src="/images/gallery/ISBI_Houston_me.jpg" width="350"></td>
-    <td><img src="/images/gallery/ISBI_Houston_kuan.jpg" width="350"></td>
+    <td><img src="/images/gallery/ISBI_Houston_me.JPG" width="350"></td>
+    <td><img src="/images/gallery/ISBI_Houston_kuan.JPG" width="350"></td>
   </tr>
 </table>
 
@@ -37,7 +37,7 @@ author_profile: true
 * Celebrating the graduation commencement with the Department of Computer Science faculty and students, 2024.
 <br/><br/><img src='/images/gallery/ceremony_colleage_2024.JPG' width="650">
 <br/>
-<br/><br/><img src='/images/gallery/ceremony_students_2024.JPG' width="400">
+<br/><br/><img src='/images/gallery/ceremony_students_2024.jpg' width="400">
 
 
 
