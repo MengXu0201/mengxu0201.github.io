@@ -25,20 +25,20 @@ I am deeply passionate about educating and mentoring the next generation of tech
 ## Course List
 
 ### Fall 2025
-* CPS 4841: Computer Vision (developed and taught by me!)
-* CPS 1231: Foundation of Computer Science (Java)
+* CPS 4841: Computer Vision (course developed and taught by me!)
+* CPS 1231: Foundations of Computer Science (Java Programming)
 
 ### Spring 2025
-* CPS 1231: Foundation of Computer Science (Java)
+* CPS 1231: Foundations of Computer Science (Java Programming)
 
 ### Fall 2024
 * CPS 4982: Special Topics in Computer Vision (developed and taught by me!)
-* CPS 1231: Foundation of Computer Science (Java)
+* CPS 1231: Foundations of Computer Science (Java Programming)
 
 ### Spring 2024
 * TECH 3740: IT Database Management Systems
-* CPS 1231: Foundation of Computer Science (Java)
+* CPS 1231: Foundations of Computer Science (Java Programming)
 
 ### Fall 2023
 * TECH 3740: IT Database Management Systems
-* CPS 1231: Foundation of Computer Science (Java)
+* CPS 1231: Foundations of Computer Science (Java Programming)
