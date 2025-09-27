@@ -13,14 +13,13 @@ author_profile: true
 
 ## Graduation Commencement 2025
 
-* Celebrating the graduation commencement with the Department of Computer Science faculty and students, 2025.
+* Celebrating the graduation commencement with the Department of Computer Science and Technology faculty and students, 2025.
 <br/><br/><img src='/images/gallery/ceremony_colleage_2025.JPEG' width="800">
-<br/>
 <br/><br/><img src='/images/gallery/ceremony_students_2025.JPG' width="550">
 
 ## International Symposium on Biomedical Imaging (ISBI) 2025 
 * Presenting our work at ISBI 2025, Houston.
-<table cellspacing="10" style="border: none;">
+<table style="border: none;">
   <tr>
     <td style="border: none;"><img src="/images/gallery/ISBI_Houston_me.JPG" width="400"></td>
     <td style="border: none;"><img src="/images/gallery/ISBI_Houston_kuan.JPG" width="400"></td>
@@ -34,9 +33,8 @@ author_profile: true
 
 ## Graduation Commencement 2024
 
-* Celebrating the graduation commencement with the Department of Computer Science faculty and students, 2024.
+* Celebrating the graduation commencement with the Department of Computer Science and Technology faculty and students, 2024.
 <br/><br/><img src='/images/gallery/ceremony_colleage_2024.JPG' width="700">
-<br/>
 <br/><br/><img src='/images/gallery/ceremony_students_2024.jpg' width="500">
 
 
