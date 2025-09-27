@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Graduation commencement 2024"
+excerpt: "Celebrating the graduation commencement with the Department of Computer Science faculty, 2024 <br/><img src='/images/gallery/ceremony_colleage_2024.JPG'>"
 collection: portfolio
 ---
 
