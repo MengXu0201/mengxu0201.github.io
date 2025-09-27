@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 [//]: # (## Download My CV )
-<a href="{{ '/Meng_Xu_CV.pdf' | relative_url }}" download>⬇️ Download My Full CV</a>
+<a href="{{ '/assets/cv/Meng_Xu_CV.pdf' | relative_url }}" download class="download-btn">⬇️ Download My Full CV</a>
+
 
 ## Education
 
