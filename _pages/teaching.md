@@ -24,8 +24,15 @@ I am deeply passionate about educating and mentoring the next generation of tech
 
 ## Course List
 
+### Fall 2025
+* CPS 4841: Computer Vision (developed and taught by me!)
+* CPS 1231: Foundation of Computer Science (Java)
+
+### Spring 2025
+* CPS 1231: Foundation of Computer Science (Java)
+
 ### Fall 2024
-* CPS 4982: Special Topics in Computer Vision
+* CPS 4982: Special Topics in Computer Vision (developed and taught by me!)
 * CPS 1231: Foundation of Computer Science (Java)
 
 ### Spring 2024

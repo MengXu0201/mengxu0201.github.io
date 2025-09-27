@@ -26,7 +26,9 @@ location: "Union, NJ"
   - Armando Mendez
 
 ## Publications 
-- To be updated ... 
+* Maryam Ahmed, Joanna Loja, Kuan Huang, Meng Xu. "Benchmarking the Robustness of Segmentation Methods Against Adversarial Attacks in Breast Ultrasound Segmentation." International Conference on Computational Science and Computational Intelligence, 2024. [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_17)
+* Armando Mendez, Meng Xu, Kuan Huang. "Multimodal Breast Ultrasound Segmentation: Combining Visual and Clinical Data." International Conference on Computational Science and Computational Intelligence, 2024. [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_16)
+* Cesar Marte, Meng Xu, Kuan Huang. "Text-Guided Weakly Supervised Segmentation for COVID-19 Detection in X-ray Images." International Conference on Computational Science and Computational Intelligence, 2024. [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_18)
 
 
 ## Acknowledgements
