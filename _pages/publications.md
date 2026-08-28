@@ -20,5 +20,5 @@ For a complete and up-to-date list of my publications and citation metrics, plea
 
 ## Selected Student-Mentored Publications
 
-- "<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Hus5Y8wAAAAJ&sortby=pubdate&authuser=1&citation_for_view=Hus5Y8wAAAAJ:IWHjjKOFINEC" target="_blank" rel="noopener noreferrer">Segmenting What Matters: A Dual Stage Active Learning Framework for Weakly Supervised Breast Ultrasound Segmentation</a>."
-- "<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Hus5Y8wAAAAJ&sortby=pubdate&authuser=1&citation_for_view=Hus5Y8wAAAAJ:ZeXyd9-uunAC" target="_blank" rel="noopener noreferrer">Online Block-Level Data Augmentation for Medical Image Classification</a>."
+- Nuojunxi Zhang, Meng Xu, Guanchao Tong, Kuan Huang. "Segmenting What Matters: A Dual Stage Active Learning Framework for Weakly Supervised Breast Ultrasound Segmentation." IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. [\[link\]](https://ieeexplore.ieee.org/document/11356938)
+- Kuan Huang, Yongxiang Wan, Jianhua Huang, Meng Xu. "Online Block-Level Data Augmentation for Medical Image Classification." IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. [\[link\]](https://ieeexplore.ieee.org/abstract/document/11356402)
