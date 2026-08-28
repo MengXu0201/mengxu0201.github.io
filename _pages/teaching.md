@@ -9,36 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 ## Teaching Interests
 
-I am deeply passionate about educating and mentoring the next generation of technologists and researchers. My primary teaching interests include:
+My teaching interests include computer vision, programming, machine learning, and database systems. I am particularly interested in integrating practical programming, research-oriented learning, and emerging AI technologies into the classroom.
 
-- **Computer Vision**: Exploring how computers gain high-level understanding from digital images and videos.
-- **Programming Languages**: Focusing on the theory and practical application of programming languages.
-- **Machine Learning**: Teaching machines to make decisions based on data.
-- **Database Systems**: Covering the design, implementation, and management of database systems.
+- **Computer Vision**
+- **Programming Languages**
+- **Machine Learning**
+- **Database Systems**
 
 <br>
 
-## Course List
+## Current Teaching
 
-### Fall 2025
-* CPS 4841: Computer Vision (course developed and taught by me!)
-* CPS 1231: Foundations of Computer Science (Java Programming)
+### Fall 2026
 
-### Spring 2025
-* CPS 1231: Foundations of Computer Science (Java Programming)
+- CPS 4841: Computer Vision
+- CPS 1231: Foundations of Computer Science (Java Programming)
 
-### Fall 2024
-* CPS 4982: Special Topics in Computer Vision (developed and taught by me!)
-* CPS 1231: Foundations of Computer Science (Java Programming)
+<br>
 
-### Spring 2024
-* TECH 3740: IT Database Management Systems
-* CPS 1231: Foundations of Computer Science (Java Programming)
+## Courses Taught
 
-### Fall 2023
-* TECH 3740: IT Database Management Systems
-* CPS 1231: Foundations of Computer Science (Java Programming)
+### CPS 4841: Computer Vision
+Fall 2025, Fall 2026  
+*Course developed and taught by me.*
+
+### CPS 4982: Special Topics in Computer Vision
+Fall 2024  
+*Course developed and taught by me.*
+
+### CPS 1231: Foundations of Computer Science
+Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026  
+*Java Programming*
+
+### TECH 3740: IT Database Management Systems
+Fall 2023, Spring 2024

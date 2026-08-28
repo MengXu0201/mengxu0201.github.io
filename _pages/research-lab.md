@@ -30,9 +30,12 @@ Our research focuses on artificial intelligence, computer vision, medical imagin
 
 ### Faculty
 
-Meng Xu, Ph.D.  
-Assistant Professor, Department of Computer Science and Technology  
-Kean University
+- Meng Xu, Ph.D.  
+  Assistant Professor, Department of Computer Science and Technology  
+  Kean University
+- Kuan Huang, Ph.D.  
+  Assistant Professor, Department of Computer Science and Technology  
+  Kean University
 
 ### Graduate Students
 
