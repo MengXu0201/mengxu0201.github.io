@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Uses the shared masthead navigation from _data/navigation.yml. -->
+
 [//]: # ([//]: # &#40;## Download My CV &#41;)
 [//]: # (<a href="{{ '/assets/cv/Meng_Xu_CV.pdf' | relative_url }}" download class="download-btn">⬇️ Download My Full CV</a>)
 
@@ -76,4 +78,3 @@ author_profile: true
 
 [//]: # ()
 [//]: # (* )
-
