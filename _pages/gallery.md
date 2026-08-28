@@ -54,6 +54,17 @@ author_profile: true
 </style>
 
 <section class="gallery-event">
+  <h2>Commencement 2026</h2>
+  <p class="gallery-description">Celebrating the 2026 commencement with students from the Department of Computer Science and Technology.</p>
+  <div class="gallery-grid">
+    <img src="{{ '/images/gallery/ceremony_graduate_students_2026.jpg' | relative_url }}" alt="Commencement 2026 with graduate students">
+    <img src="{{ '/images/gallery/ceremony_students_2026.JPG' | relative_url }}" alt="Commencement 2026 with students">
+    <img src="{{ '/images/gallery/ceremony_rayleen_2026.JPG' | relative_url }}" alt="Commencement 2026 with Rayleen Ramos">
+    <img src="{{ '/images/gallery/ceremony_cesar_2026.JPG' | relative_url }}" alt="Commencement 2026 with Cesar Marte Jimenez">
+  </div>
+</section>
+
+<section class="gallery-event">
   <h2>Commencement 2025</h2>
   <p class="gallery-description">Celebrating the 2025 commencement with faculty and students from the Department of Computer Science and Technology.</p>
   <div class="gallery-grid">
