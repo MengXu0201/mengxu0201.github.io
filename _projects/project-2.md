@@ -5,26 +5,41 @@ type: "Undergraduate Research"
 permalink: /projects/project-2
 venue: "Kean University, Department of Computer Science and Technology"
 location: "Union, NJ"
+order: 2
+funding_program: "CAHSI-Google Institutional Research program"
+period: "9/1/2024 to 8/31/2025"
+role: "Principal Investigator"
+summary: "This project examined trustworthy deep learning for urban-scene image segmentation, with attention to robustness and uncertainty analysis. It focused on evaluating segmentation models under adversarial perturbations and developing ContraDiff, a contrastive learning diffusion model for trustworthy urban-scene image segmentation."
+people:
+  - "Principal Investigator: Dr. Meng Xu"
+  - "Co-Principal Investigator: Dr. Yuyin Zhou (University of California, Santa Cruz)"
+  - "Undergraduate Student Researchers: Cesar Marte"
 ---
 
-**Abstract:** Urban scene image segmentation typically identifies components such as pedestrians, sidewalks, streets, and bus stops within city environments. This technology is crucial for understanding and modeling complex urban systems, aiding city planners and policymakers in designing inclusive policies and infrastructures to support underrepresented groups, such as individuals with vision impairments. It also plays a critical role in autonomous vehicles, traffic management, environmental planning, and public safety. Urban scene image segmentation is a well-studied field, with many publicly available datasets for research. Deep learning techniques perform well on these databases. However, these segmentation models are vulnerable to adversarial perturbations—minor input modifications deliberately designed to deceive the model. Specifically, the ability of models trained on one dataset to generalize effectively to adversarial or noise-disturbed datasets is crucial but often insufficient. It is critical to develop robust models capable of withstanding such adversarial attacks. In this project, we aim to assess cutting-edge segmentation models' robustness and generalization capabilities under adversarial attacks by evaluating their uncertainty and segmentation performance under adversarial perturbations. Furthermore, we will develop a novel contrastive learning diffusion model, ContraDiff, for trustworthy urban-scene image segmentation. The proposed method will utilize a contrastive learning mechanism with latent diffusion approaches to improve the models' robustness and generalization ability under adversarial attacks.
+## Funding
 
-**Location:** Kean University, University of California, Santa Cruz
+[CAHSI-Google Institutional Research](https://cahsi.utep.edu/cahsi-google-irp/) program
 
-**Duration:** 9/1/2024 to 8/31/2025
+## Period
 
-## People
+9/1/2024 to 8/31/2025
+
+## Role
+
+Principal Investigator
+
+## Overview
+
+This project examined trustworthy deep learning for urban-scene image segmentation, with attention to robustness and uncertainty analysis. It evaluated segmentation models' robustness and generalization under adversarial perturbations using uncertainty and segmentation performance. The project also focused on ContraDiff, a contrastive learning diffusion model for trustworthy urban-scene image segmentation.
+
+## Team
+
 - Principal Investigator: Dr. Meng Xu
 - Co-Principal Investigator: Dr. Yuyin Zhou (University of California, Santa Cruz)
 - Undergraduate Student Researchers:
-    - Cesar Marte
+  - Cesar Marte
 
-## Publications
-- To be updated ...
+## Acknowledgment
 
-
-## Acknowledgements
-This project is funded by the [CAHSI-Google Institutional Research](https://cahsi.utep.edu/cahsi-google-irp/) program. 
-
-
+This project was funded by the [CAHSI-Google Institutional Research](https://cahsi.utep.edu/cahsi-google-irp/) program.
 

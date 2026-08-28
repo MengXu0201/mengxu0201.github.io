@@ -26,6 +26,8 @@ Our research focuses on artificial intelligence, computer vision, medical imagin
 3. Quantum Machine Learning for Medical Imaging
 4. Robust and Trustworthy Medical AI
 
+[View selected funded projects]({{ '/projects/' | relative_url }})
+
 ## Research Team
 
 ### Faculty

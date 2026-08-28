@@ -1,15 +1,47 @@
 ---
 layout: archive
-title: "Projects"
+title: "Selected Funded Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p>This page summarizes selected previously funded research projects, including documented collaborations, student involvement, and research outcomes.</p>
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+{% assign projects = site.projects | sort: "order" %}
+{% for project in projects %}
+  <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+
+  {% if project.funding_program %}
+    <p><strong>Funding:</strong> {{ project.funding_program }}</p>
+  {% endif %}
+
+  {% if project.period or project.role %}
+    <p>{% if project.period %}<strong>Period:</strong> {{ project.period }}{% endif %}{% if project.period and project.role %} | {% endif %}{% if project.role %}<strong>Role:</strong> {{ project.role }}{% endif %}</p>
+  {% endif %}
+
+  {% if project.summary %}
+    <p>{{ project.summary }}</p>
+  {% endif %}
+
+  {% if project.people %}
+    <h3>People</h3>
+    <ul>
+    {% for person in project.people %}
+      <li>{{ person }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if project.outcomes %}
+    <h3>Selected Outcomes</h3>
+    <ul>
+    {% for outcome in project.outcomes %}
+      <li>{{ outcome | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  <p><a href="{{ project.url | relative_url }}">View project details</a></p>
 {% endfor %}
-
-
