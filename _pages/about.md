@@ -18,6 +18,7 @@ particularly focused on the detection of breast cancer in ultrasound and mammogr
 <br>
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Received NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM) grant, Co-PI, $2,000,000.
 - *2025.09*: &nbsp;🎉🎉 Received AIM-AHEAD Research Fellowship (Cohort 4), PI, $51,840.
 - *2025.06*: &nbsp;🎉🎉 Our recent work, "Using Adversarial Training to Improve Uncertainty Quantification", has been published in IEEE Transactions on Artificial Intelligence.
 - *2024.07*: &nbsp;🎉🎉 Received NSF Computer and Information Science and Engineering Research Expansion Program Grant, Co-PI, $203,981.

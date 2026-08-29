@@ -46,9 +46,10 @@ redirect_from:
 ## Grants
 
 ### External
-* AIM-AHEAD Research Fellowship Program Cohort 4, Deep Learning Applications for Early Detection of Breast Cancer in Mammography, $51,840, Principal Investigator, 10/1/2025 to 10/1/2026.
-* NSF 24-536 Computer and Information Science and Engineering Research Expansion Program, Collaborative Research: CISE MSI: RCBP: SCH: Advancing Breast-Cancer Detection in Ultrasound Imaging through Active- and Weakly-Supervised Learning, $203,981, Co-Principal Investigator (with PI Dr. Kuan Huang), 09/01/2024 to 08/31/2026.
-* CAHSI-Google Institutional Research Program Awards, Building a Trustworthy Deep Learning Model for Urban-Scene Image Segmentation: Robustness and Uncertainty Analysis, $80,000 and $20,000 Google Cloud Platform credits, Principal Investigator, 09/01/2024 to 08/31/2025.
+* NSF 25-514 NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM), \$2,000,000, Co-Principal Investigator (PI: Dr. Daehan Kawk; Co-PIs: Drs. Meng Xu, Bin Hu, Ching-Yu Huang, and Patricia Morreale), 10/01/2026 to 09/30/2032.
+* AIM-AHEAD Research Fellowship Program Cohort 4, Deep Learning Applications for Early Detection of Breast Cancer in Mammography, \$51,840, Principal Investigator, 10/1/2025 to 10/1/2026.$203,981, Co-Principal Investigator (with PI Dr. Kuan Huang), 09/01/2024 to 08/31/2026.
+* NSF 24-536 Computer and Information Science and Engineering Research Expansion Program, Collaborative Research: CISE MSI: RCBP: SCH: Advancing Breast-Cancer Detection in Ultrasound Imaging through Active- and Weakly-Supervised Learning, \$203,981, Co-Principal Investigator (with PI Dr. Kuan Huang), 09/01/2024 to 08/31/2026.
+* CAHSI-Google Institutional Research Program Awards, Building a Trustworthy Deep Learning Model for Urban-Scene Image Segmentation: Robustness and Uncertainty Analysis, \$80,000 and \$20,000 Google Cloud Platform credits, Principal Investigator, 09/01/2024 to 08/31/2025.
 
 
 ### Internal
