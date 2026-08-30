@@ -41,8 +41,8 @@ Our research focuses on artificial intelligence, computer vision, medical imagin
 
 ### Graduate Students
 
-- Skyler LaFisca
-- Gustavo Garcia Vargas
+- Skyler LaFisca, M.S. Student
+- Gustavo Garcia Vargas, M.S. Student
 
 ### Undergraduate Researchers
 
@@ -51,8 +51,8 @@ Our research focuses on artificial intelligence, computer vision, medical imagin
 
 ### Lab Alumni
 
-- Rayleen Ramos — <a href="https://youtu.be/Heqgo00UEgM?si=atyGRgcKtOjDCDgV" target="_blank" rel="noopener noreferrer">See her work</a>
-- Cesar Marte Jimenez
+- Rayleen Ramos, M.S., May 2026 — <a href="https://youtu.be/Heqgo00UEgM?si=atyGRgcKtOjDCDgV" target="_blank" rel="noopener noreferrer">See her work</a>
+- Cesar Marte Jimenez, M.S., May 2026
 
 ## Research Opportunities
 
