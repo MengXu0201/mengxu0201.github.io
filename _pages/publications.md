@@ -11,7 +11,7 @@ For a complete and up-to-date list of my publications and citation metrics, plea
 
 ## Selected Publications
 
-- "DRSeg: a weakly supervised framework for breast ultrasound image segmentation."
+- Meng Xu, Bin Hu, Yingfeng Wang, Patrick Koo, and Kuan Huang. "DRSeg: a weakly supervised framework for breast ultrasound image segmentation." Scientific Reports, 2026. [\[link\]](https://www.nature.com/articles/s41598-026-49728-0)
 - Kuan Huang, Meng Xu, Yingfeng Wang. "Using Adversarial Training to Improve Uncertainty Quantification." IEEE Transactions on Artificial Intelligence, 2025. [\[link\]](https://ieeexplore.ieee.org/abstract/document/11029515)
 - Meng Xu, Yingfeng Wang, Kuan Huang. "AnatoSegNet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation." International Symposium on Biomedical Imaging (ISBI), 2025. [\[link\]](https://ieeexplore.ieee.org/abstract/document/10980919)
 - Meng Xu, Jianhua Huang, Kuan Huang, and Feifei Liu. "Incorporating Tumor Edge Information for Fine-Grained BI-RADS Classification of Breast Ultrasound Images." IEEE Access, 2024. [\[link\]](https://ieeexplore.ieee.org/abstract/document/10462132)
